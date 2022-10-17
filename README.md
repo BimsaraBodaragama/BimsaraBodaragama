@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bimsara Bodaragama</h1>
 <h3 align="center">Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">| 🔥ENTHUSIAST🔥 |</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bimsarabodaragama&label=Profile%20views&color=0e75b6&style=flat" alt="bimsarabodaragama" /> </p>
 
