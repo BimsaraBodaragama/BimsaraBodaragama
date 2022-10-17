@@ -1,6 +1,3 @@
-
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://github.com/BimsaraBodaragama)
-
 <h1 align="center">Hi 👋, I'm Bimsara Bodaragama</h1>
 <h3 align="center">Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka</h3>
 
