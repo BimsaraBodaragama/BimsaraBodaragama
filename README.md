@@ -29,8 +29,7 @@
 - ⚡ Fun fact **🦇 I'm Batman! Ssssh! 🤫😉**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+📝 [BUILDING A REGISTRATION PAGE & A LOGIN PAGE](https://bodaragamadb-office.medium.com/building-a-registration-page-a-login-page-using-spring-boot-spring-data-jpa-spring-security-9d2349cb853a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
