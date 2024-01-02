@@ -1,48 +1,37 @@
-<h1 align="center">Hi 👋, I'm Bimsara Bodaragama</h1>
-<h3 align="center">Undergraduate at Department of Computer Science & Engineering at University of Moratuwa, Sri Lanka</h3>
-<h3 align="center">| 🔥ENTHUSIAST🔥 |</h3>
+# About Me - Dinuka **Bimsara Bodaragama**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bimsarabodaragama&label=Profile%20views&color=0e75b6&style=flat" alt="bimsarabodaragama" /> </p>
+👋 Hi! I'm **Bimsara Bodaragama**, a Computer Science and Engineering undergraduate at the University of Moratuwa. I specialize in software engineering with a focus on Java, Python, and data science.
 
-<p align="center"> <a href="https://twitter.com/bimsarabodarag1" target="blank"><img src="https://img.shields.io/twitter/follow/bimsarabodarag1?logo=twitter&style=for-the-badge" alt="bimsarabodarag1" /></a> </p>
-
-**<p align="center">⚡🏆Github Profile Trophies⚡🏆</p>**
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimsarabodaragama" alt="bimsarabodaragama" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 📚 Education
+- **University**: [![B.Sc. in Computer Science & Engineering (Hons.)](https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20&%20Engineering%20(Hons.)-%23FFD700.svg?style=for-the-badge)](https://cse.mrt.ac.lk/), [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (2020 - Present)
+- **School**: [![Maris Stella College, Negombo, Sri Lanka](https://img.shields.io/badge/Maris%20Stella%20College,%20Negombo-%23003399.svg?style=for-the-badge)](https://www.linkedin.com/school/maris-stella-college-negombo/?originalSubdomain=lk) (2005 - 2018)
 
 
+## 💻 Professional Experience
+- **Software Engineering Intern**, [![The Software Practice Pte Ltd, Singapore](https://img.shields.io/badge/The%20Software%20Practice%20Pte%20Ltd-%239E9E9E.svg?style=for-the-badge)](https://thesoftwarepractice.com/) (Jan 2023 - Jun 2023)
+- **Teaching Assistant**, [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (Aug 2023 - Dec 2023)
 
 
-- 🌱 I’m currently learning **C# and ASP.NET MVC 5**
+## 🛠️ Tech Stack
+- **Programming Languages**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- **Databases**: ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Frameworks, Platforms, and Libraries**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%234FC08D.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Testing and Documentation**: ![JUnit 5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) ![JaCoCo](https://img.shields.io/badge/JaCoCo-007396.svg?style=for-the-badge&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+- **Development Tools and Others**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- 👨‍💻 Some of my projects(public) are available at [Github](https://github.com/BimsaraBodaragama)
+## 🏆 Achievements
+- **Dean’s List**: In 3 semesters out of 6 at the University of Moratuwa
+- **Shakespeare Drama**: Runners-Up (2013), Finalists (2012)
+- **Inter-House Drama**: Best Actor - Sinhala (2013), Best Supporting Actor - English (2013)
+- **Best Colour Photography**: 1st Place (2012), 1st Place and 3rd Place (2014)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@bodaragamadb-office)
+## 🌐 How to Reach Me
+Connect with me:
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinukab.19@cse.mrt.ac.lk)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimsara-bodaragama-7b4b8920b/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bimsarabodarag1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/uom190093t)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bodaragamadb-office)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bodaragamadb_of1)
 
-- 💬 Ask me about **☕Java | 🍃Spring boot | ⚛️Physics | 🌌Cosmology**
-
-- 📫 How to reach me **dinukab.19@cse.mrt.ac.lk**
-
-- ⚡ Fun fact **🦇 I'm Batman! Ssssh! 🤫😉**
-
-### Blogs posts
-📝 [BUILDING A REGISTRATION PAGE & A LOGIN PAGE](https://bodaragamadb-office.medium.com/building-a-registration-page-a-login-page-using-spring-boot-spring-data-jpa-spring-security-9d2349cb853a)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bimsarabodarag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bimsarabodarag1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bimsara-bodaragama-7b4b8920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bimsara-bodaragama-7b4b8920b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/uom190093t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uom190093t" height="30" width="40" /></a>
-<a href="https://medium.com/@bodaragamadb-office" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bodaragamadb-office" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bodaragamadb_of1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bodaragamadb_of1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimsarabodaragama&show_icons=true&locale=en&layout=compact" alt="bimsarabodaragama" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimsarabodaragama&show_icons=true&locale=en" alt="bimsarabodaragama" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimsarabodaragama&" alt="bimsarabodaragama" /></p>
