@@ -1,6 +1,6 @@
 # About Me - Dinuka **Bimsara Bodaragama**
 
-👋 Hi! I'm **Bimsara Bodaragama**, a Computer Science and Engineering undergraduate at the University of Moratuwa. I specialize in software engineering with a focus on Java, Python, and data science.
+Yet a unique homosapien, who is reverse engineering nature and making a universe inside a computer.
 
 ## 📚 Education
 - **University**: [![B.Sc. in Computer Science & Engineering (Hons.)](https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20&%20Engineering%20(Hons.)-%23FFD700.svg?style=for-the-badge)](https://cse.mrt.ac.lk/), [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (2020 - Present)
