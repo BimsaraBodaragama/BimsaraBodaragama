@@ -3,14 +3,14 @@
 Yet a unique homosapien, who is reverse engineering nature and making a universe inside a computer.
 
 ## 📚 Education
-- **University**: [![B.Sc. in Computer Science & Engineering (Hons.)](https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20&%20Engineering%20(Hons.)-%23FFD700.svg?style=for-the-badge)](https://cse.mrt.ac.lk/), [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (2020 - Present)
+- **University**: [![B.Sc. in Computer Science & Engineering (Hons.)](https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20&%20Engineering%20(Hons.)-%23FFD700.svg?style=for-the-badge)](https://cse.mrt.ac.lk/), [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (2020 - 2024)
 - **School**: [![Maris Stella College, Negombo, Sri Lanka](https://img.shields.io/badge/Maris%20Stella%20College,%20Negombo-%23003399.svg?style=for-the-badge)](https://www.linkedin.com/school/maris-stella-college-negombo/?originalSubdomain=lk) (2005 - 2018)
 
 
 ## 💻 Professional Experience
 - **Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-%23ED8B00.svg?style=for-the-badge)](https://wso2.com) (Jun 2024 - Present)
 - **Software Engineering Intern**, [![The Software Practice Pte Ltd, Singapore](https://img.shields.io/badge/The%20Software%20Practice%20Pte%20Ltd-%239E9E9E.svg?style=for-the-badge)](https://thesoftwarepractice.com/) (Jan 2023 - Jun 2023)
-- **Teaching Assistant**, [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (Aug 2023 - Dec 2023)
+- **Teaching Assistant**, [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (Aug 2023 - May 2024)
 
 
 ## 🛠️ Tech Stack
@@ -22,7 +22,8 @@ Yet a unique homosapien, who is reverse engineering nature and making a universe
 - **Development Tools and Others**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🏆 Achievements
-- **Dean’s List**: In 3 semesters out of 6 at the University of Moratuwa
+- **Class**: 1st Class
+- **Dean’s List**: In 4 semesters out of 8 at the University of Moratuwa
 - **Shakespeare Drama**: Runners-Up (2013), Finalists (2012)
 - **Inter-House Drama**: Best Actor - Sinhala (2013), Best Supporting Actor - English (2013)
 - **Best Colour Photography**: 1st Place (2012), 1st Place and 3rd Place (2014)
