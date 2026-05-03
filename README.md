@@ -8,7 +8,8 @@ Yet a unique homosapien, who is reverse engineering nature and making a universe
 
 
 ## 💻 Professional Experience
-- **Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-%23ED8B00.svg?style=for-the-badge)](https://wso2.com) (Jun 2024 - Present)
+- **Senior Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-%23ED8B00.svg?style=for-the-badge)](https://wso2.com) (Jan 2026 - Present)
+- **Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-%23ED8B00.svg?style=for-the-badge)](https://wso2.com) (Jun 2024 - Dec 2025)
 - **Software Engineering Intern**, [![The Software Practice Pte Ltd, Singapore](https://img.shields.io/badge/The%20Software%20Practice%20Pte%20Ltd-%239E9E9E.svg?style=for-the-badge)](https://thesoftwarepractice.com/) (Jan 2023 - Jun 2023)
 - **Teaching Assistant**, [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-%23800000.svg?style=for-the-badge)](https://uom.lk/) (Aug 2023 - May 2024)
 
