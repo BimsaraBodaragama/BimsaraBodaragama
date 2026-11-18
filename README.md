@@ -1,47 +1,56 @@
+<div align="center">
 
-# About Me - Dinuka **Bimsara Bodaragama**
+<img src="./assets/header.svg" width="100%" alt="Dinuka Bimsara Bodaragama" />
 
-Yet a unique Homo sapiens, reverse-engineering nature and building a universe inside a computer.
+<a href="https://www.uni-leipzig.de/en"><img src="./assets/tile-studying.svg" width="32%" alt="Studying: BSc Physics (Honours), Leipzig University" /></a>
+<a href="https://cse.mrt.ac.lk/"><img src="./assets/tile-graduated.svg" width="32%" alt="Graduated: BSc Engineering (Hons) in CSE, First Class, University of Moratuwa" /></a>
+<a href="https://choreolabs.com/"><img src="./assets/tile-previously.svg" width="32%" alt="Previously: Senior Software Engineer, WSO2 (now Choreo Labs), IAM" /></a>
 
-## 📚 Education
+<br />
 
-- **University**: [![BSc International Physics Studies Programme (Honours)](https://img.shields.io/badge/BSc_Physics_(Honours)-003366?style=for-the-badge)](https://www.uni-leipzig.de/en), [![Leipzig University, Germany](https://img.shields.io/badge/Leipzig_University-003366?style=for-the-badge)](https://www.uni-leipzig.de/en) (Oct 2026 - Present)
-- **University**: [![B.Sc. in Computer Science & Engineering (Hons.)](https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20%26%20Engineering%20(Hons.)-FFD700?style=for-the-badge)](https://cse.mrt.ac.lk/), [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-800000?style=for-the-badge)](https://uom.lk/) (2020 - 2024)
-- **Certificate**: [![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6929C4?style=for-the-badge)](https://cmb.ac.lk/), [![University of Colombo](https://img.shields.io/badge/University_of_Colombo-17365D?style=for-the-badge)](https://cmb.ac.lk/) (2026)
-- **School**: [![Maris Stella College, Negombo, Sri Lanka](https://img.shields.io/badge/Maris%20Stella%20College,%20Negombo-003399?style=for-the-badge)](https://www.linkedin.com/school/maris-stella-college-negombo/?originalSubdomain=lk) (2005 - 2018)
+<a href="mailto:bimsarabodaragama@gmail.com"><img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/bimsara-bodaragama-7b4b8920b/"><img src="https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/bimsarabodarag1"><img src="https://img.shields.io/badge/X-1F2328?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://medium.com/@bodaragamadb-office"><img src="https://img.shields.io/badge/Medium-1F2328?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 
-## 💻 Professional Experience
+<br />
 
-- **Senior Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-ED8B00?style=for-the-badge)](https://wso2.com/) (Jan 2026 - Sep 2026)
-- **Software Engineer**, [![WSO2, Sri Lanka](https://img.shields.io/badge/WSO2-ED8B00?style=for-the-badge)](https://wso2.com/) (Jun 2024 - Dec 2025)
-- **Software Engineering Intern**, [![The Software Practice Pte Ltd, Singapore](https://img.shields.io/badge/The%20Software%20Practice%20Pte%20Ltd-9E9E9E?style=for-the-badge)](https://thesoftwarepractice.com/) (Jan 2023 - Jun 2023)
-- **Teaching Assistant**, [![University of Moratuwa, Sri Lanka](https://img.shields.io/badge/University%20of%20Moratuwa-800000?style=for-the-badge)](https://uom.lk/) (Aug 2023 - May 2024)
+<img src="./assets/label-contributions.svg" width="100%" alt="GitHub contributions" />
+<a href="https://github.com/BimsaraBodaragama"><img src="https://ghchart.rshah.org/BimsaraBodaragama" width="100%" alt="GitHub contribution chart for BimsaraBodaragama" /></a>
 
-## 🛠️ Tech Stack
+<br />
 
-- **Programming Languages**: ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Databases**: ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Frameworks, Platforms, and Libraries**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-4FC08D?style=for-the-badge&logo=thymeleaf&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-- **Testing and Documentation**: ![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![JaCoCo](https://img.shields.io/badge/JaCoCo-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-- **Development Tools and Others**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-- **Quantum Computing**: ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+<img src="./assets/label-experience.svg" width="49%" alt="Experience" /> <img src="./assets/label-education.svg" width="49%" alt="Education" />
+<a href="https://choreolabs.com/"><img src="./assets/exp-1-wso2.svg" width="49%" alt="WSO2 (now Choreo Labs): Senior Software Engineer, Software Engineer" /></a> <a href="https://www.uni-leipzig.de/en"><img src="./assets/edu-1-leipzig.svg" width="49%" alt="Leipzig University: BSc Physics (Honours)" /></a>
+<a href="https://uom.lk/"><img src="./assets/exp-2-uom.svg" width="49%" alt="University of Moratuwa: Teaching Assistant" /></a> <a href="https://cmb.ac.lk/"><img src="./assets/edu-2-colombo.svg" width="49%" alt="University of Colombo: Certificate in Quantum Computing" /></a>
+<a href="https://thesoftwarepractice.com/"><img src="./assets/exp-3-tsp.svg" width="49%" alt="The Software Practice Pte Ltd: Software Engineering Intern" /></a> <a href="https://cse.mrt.ac.lk/"><img src="./assets/edu-3-uom.svg" width="49%" alt="University of Moratuwa: BSc Engineering (Hons) in Computer Science and Engineering" /></a>
+<img src="./assets/exp-4-freelance.svg" width="49%" alt="Freelance: Software Developer and Project Owner" /> <a href="https://www.linkedin.com/school/maris-stella-college-negombo/"><img src="./assets/edu-4-maris.svg" width="49%" alt="Maris Stella College: Primary and Secondary Education" /></a>
 
-## 🏆 Achievements
+<br />
 
-- **Class**: First Class Honours — BSc Computer Science & Engineering
-- **Dean's List**: In 4 semesters out of 8 at the University of Moratuwa
-- **Shakespeare Drama**: Runners-Up (2013), Finalists (2012)
-- **Inter-House Drama**: Best Actor - Sinhala (2013), Best Supporting Actor - English (2013)
-- **Best Colour Photography**: 1st Place (2012), 1st Place and 3rd Place (2014)
+<img src="./assets/label-certifications.svg" width="100%" alt="Licenses and certifications" />
+<a href="https://www.ecsl.gov.lk/"><img src="./assets/cert-ecsl.svg" width="49%" alt="Associate Engineer, Computer Engineering, ECSL" /></a> <a href="https://drive.google.com/file/d/1-u80VvjScuZHEGAiTooH6e6hmbVn7ObZ/view"><img src="./assets/cert-iesl.svg" width="49%" alt="Associate Member, IESL" /></a>
+<a href="https://certification.choreolabs.com/certificate/CID-04625019/a09VM00000GjSbdYAF"><img src="./assets/cert-wso2-dev.svg" width="32%" alt="WSO2 Certified Identity Server Developer - V7" /></a>
+<a href="https://certification.choreolabs.com/certificate/CID-04625019/a09VM0000042QaPYAU"><img src="./assets/cert-wso2-prac.svg" width="32%" alt="WSO2 Certified Identity Server Practitioner - V7" /></a>
+<a href="https://www.credly.com/badges/7d2772d7-99d6-4e2a-94da-344b83f9d766/linked_in_profile"><img src="./assets/cert-aws.svg" width="32%" alt="AWS Academy Graduate - Data Engineering" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/CPLPU4TDPV5X"><img src="./assets/course-stanford.svg" width="49%" alt="Understanding Einstein: The Special Theory of Relativity, Stanford Online" /></a> <a href="https://www.coursera.org/account/accomplishments/verify/6Y9GDHDHKQBK"><img src="./assets/course-tokyo.svg" width="49%" alt="From the Big Bang to Dark Energy, The University of Tokyo" /></a>
 
-## 🌐 How to Reach Me
+<br />
 
-Connect with me:
+<img src="./assets/label-stack.svg" width="100%" alt="Tech stack" />
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bimsarabodaragama@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimsara-bodaragama-7b4b8920b/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bimsarabodarag1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/uom190093t)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bodaragamadb-office)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bodaragamadb_of1)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,bootstrap,mysql,postgres,git,github,gitlab,docker,postman&perline=14" alt="Java, Python, JavaScript, HTML, CSS, Spring Boot, Bootstrap, MySQL, PostgreSQL, Git, GitHub, GitLab, Docker, Postman" />
+
+<img src="https://img.shields.io/badge/Thymeleaf-1F2328?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+<img src="https://img.shields.io/badge/JUnit5-1F2328?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5" />
+<img src="https://img.shields.io/badge/JaCoCo-1F2328?style=flat-square&logo=openjdk&logoColor=white" alt="JaCoCo" />
+<img src="https://img.shields.io/badge/Swagger-1F2328?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
+<img src="https://img.shields.io/badge/Power_BI-1F2328?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Qiskit-1F2328?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
+
+<br />
+
+<img src="./assets/label-achievements.svg" width="100%" alt="Achievements" />
+<img src="./assets/ach-first-class.svg" width="49%" alt="First Class Honours, BSc Engineering (Hons) in CSE, University of Moratuwa" /> <img src="./assets/ach-deans-list.svg" width="49%" alt="Dean's List, 4 of 8 semesters, University of Moratuwa" />
+
+</div>
