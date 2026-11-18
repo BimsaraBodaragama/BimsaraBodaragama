@@ -1,31 +1,49 @@
 name: Update contributions card
 
+# Checks the public contribution calendar every 15 minutes and redraws the
+# card only when something changed. The card lives on the `contributions-card`
+# branch, which this workflow overwrites with a single commit each time, so
+# `main` never collects update commits.
+
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: contributions-card
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+
       - name: Render card
-        run: python scripts/contributions.py "${{ github.repository_owner }}" assets/contributions.svg
-      - name: Commit if changed
         run: |
-          if git diff --quiet -- assets/contributions.svg; then
-            echo "No change"
+          mkdir -p out/assets
+          python3 scripts/contributions.py "${{ github.repository_owner }}" out/assets/contributions.svg
+
+      - name: Publish if changed
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git fetch --quiet --depth=1 origin contributions-card \
+             && git show FETCH_HEAD:assets/contributions.svg > old.svg 2>/dev/null \
+             && cmp -s old.svg out/assets/contributions.svg; then
+            echo "No change since the last card."
             exit 0
           fi
+          cd out
+          git init --quiet --initial-branch=contributions-card
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/contributions.svg
-          git commit -m "Update contributions card"
-          git push
+          git commit --quiet -m "Update contributions card"
+          git push --quiet --force "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" contributions-card
+          echo "Card updated."
