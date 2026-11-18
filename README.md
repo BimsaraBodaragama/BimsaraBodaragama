@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Dinuka Bimsara Bodaragama" />
+<picture><img src="./assets/header.svg" width="100%" alt="Dinuka Bimsara Bodaragama" /></picture>
 <a href="https://www.uni-leipzig.de/en"><img src="./assets/tile-studying.svg" width="33.33%" alt="Studying: BSc Physics (Honours), Leipzig University" /></a><a href="https://cse.mrt.ac.lk/"><img src="./assets/tile-graduated.svg" width="33.33%" alt="Graduated: BSc Engineering (Hons) in CSE, First Class, University of Moratuwa" /></a><a href="https://choreolabs.com/"><img src="./assets/tile-previously.svg" width="33.33%" alt="Previously: Senior Software Engineer, WSO2 (now Choreo Labs), IAM" /></a>
 <a href="mailto:bimsarabodaragama@gmail.com"><img src="./assets/contact-email.svg" height="34" alt="Email" /></a>
 <a href="https://linkedin.com/in/bimsara-bodaragama-7b4b8920b/"><img src="./assets/contact-linkedin.svg" height="34" alt="LinkedIn" /></a>
 <a href="https://twitter.com/bimsarabodarag1"><img src="./assets/contact-x.svg" height="34" alt="X" /></a>
 <a href="https://medium.com/@bodaragamadb-office"><img src="./assets/contact-medium.svg" height="34" alt="Medium" /></a>
-<a href="https://github.com/BimsaraBodaragama"><img src="./assets/contributions.svg" width="100%" alt="GitHub contributions for BimsaraBodaragama" /></a>
-<img src="./assets/label-experience.svg" width="50%" alt="Experience" /><img src="./assets/label-education.svg" width="50%" alt="Education" />
+<picture><img src="./assets/contributions.svg" width="100%" alt="GitHub contributions for BimsaraBodaragama" /></picture>
+<picture><img src="./assets/label-experience.svg" width="50%" alt="Experience" /></picture><picture><img src="./assets/label-education.svg" width="50%" alt="Education" /></picture>
 <a href="https://choreolabs.com/"><img src="./assets/exp-1-wso2.svg" width="50%" alt="WSO2 (now Choreo Labs): Senior Software Engineer, Software Engineer" /></a><a href="https://www.uni-leipzig.de/en"><img src="./assets/edu-1-leipzig.svg" width="50%" alt="Leipzig University: BSc Physics (Honours)" /></a>
 <a href="https://uom.lk/"><img src="./assets/exp-2-uom.svg" width="50%" alt="University of Moratuwa: Teaching Assistant" /></a><a href="https://cmb.ac.lk/"><img src="./assets/edu-2-colombo.svg" width="50%" alt="University of Colombo: Certificate in Quantum Computing, Honours Pass" /></a>
 <a href="https://thesoftwarepractice.com/"><img src="./assets/exp-3-tsp.svg" width="50%" alt="The Software Practice Pte Ltd: Software Engineering Intern" /></a><a href="https://cse.mrt.ac.lk/"><img src="./assets/edu-3-uom.svg" width="50%" alt="University of Moratuwa: BSc Engineering (Hons) in Computer Science and Engineering" /></a>
-<a href="https://github.com/BimsaraBodaragama"><img src="./assets/exp-4-freelance.svg" width="50%" alt="Freelance: Software Developer and Project Owner" /></a><a href="https://www.linkedin.com/school/maris-stella-college-negombo/"><img src="./assets/edu-4-maris.svg" width="50%" alt="Maris Stella College: Primary and Secondary Education" /></a>
-<img src="./assets/label-certifications.svg" width="100%" alt="Licenses and certifications" />
+<picture><img src="./assets/exp-4-freelance.svg" width="50%" alt="Freelance: Software Developer and Project Owner" /></picture><a href="https://www.linkedin.com/school/maris-stella-college-negombo/"><img src="./assets/edu-4-maris.svg" width="50%" alt="Maris Stella College: Primary and Secondary Education" /></a>
+<picture><img src="./assets/label-certifications.svg" width="100%" alt="Licenses and certifications" /></picture>
 <a href="https://www.ecsl.gov.lk/"><img src="./assets/cert-ecsl.svg" width="50%" alt="Associate Engineer, Computer Engineering, ECSL" /></a><a href="https://drive.google.com/file/d/1-u80VvjScuZHEGAiTooH6e6hmbVn7ObZ/view"><img src="./assets/cert-iesl.svg" width="50%" alt="Associate Member, IESL" /></a>
 <a href="https://certification.choreolabs.com/certificate/CID-04625019/a09VM00000GjSbdYAF"><img src="./assets/cert-wso2-dev.svg" width="33.33%" alt="WSO2 Certified Identity Server Developer - V7" /></a><a href="https://certification.choreolabs.com/certificate/CID-04625019/a09VM0000042QaPYAU"><img src="./assets/cert-wso2-prac.svg" width="33.33%" alt="WSO2 Certified Identity Server Practitioner - V7" /></a><a href="https://www.credly.com/badges/7d2772d7-99d6-4e2a-94da-344b83f9d766/linked_in_profile"><img src="./assets/cert-aws.svg" width="33.33%" alt="AWS Academy Graduate - Data Engineering" /></a>
 <a href="https://www.coursera.org/account/accomplishments/verify/CPLPU4TDPV5X"><img src="./assets/course-stanford.svg" width="50%" alt="Understanding Einstein: The Special Theory of Relativity, Stanford Online" /></a><a href="https://www.coursera.org/account/accomplishments/verify/6Y9GDHDHKQBK"><img src="./assets/course-tokyo.svg" width="50%" alt="From the Big Bang to Dark Energy, The University of Tokyo" /></a>
-<a href="https://github.com/BimsaraBodaragama"><img src="./assets/stack.svg" width="100%" alt="Tech stack: Java, Python, JavaScript, HTML, CSS, Spring Boot, Bootstrap, Thymeleaf, MySQL, PostgreSQL, Git, GitHub, GitLab, Docker, Postman, JUnit5, JaCoCo, Swagger, Power BI, Qiskit" /></a>
-<a href="https://github.com/BimsaraBodaragama"><img src="./assets/achievements.svg" width="100%" alt="Achievements: First Class Honours, BSc Engineering (Hons) in CSE; Dean's List, 4 of 8 semesters" /></a>
+<picture><img src="./assets/stack.svg" width="100%" alt="Tech stack: Java, Python, JavaScript, HTML, CSS, Spring Boot, Bootstrap, Thymeleaf, MySQL, PostgreSQL, Git, GitHub, GitLab, Docker, Postman, JUnit5, JaCoCo, Swagger, Power BI, Qiskit" /></picture>
+<picture><img src="./assets/achievements.svg" width="100%" alt="Achievements: First Class Honours, BSc Engineering (Hons) in CSE; Dean's List, 4 of 8 semesters" /></picture>
 
 </div>
