@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="104" viewBox="0 0 420 104" role="img" aria-label="From the Big Bang to Dark Energy"><title>From the Big Bang to Dark Energy</title><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.bg{fill:#ffffff;stroke:#d0d7de}.tile{fill:#f6f8fa;stroke:#d0d7de}.chip{fill:#f6f8fa;stroke:#d0d7de}
+.t{fill:#1f2328}.m{fill:#59636e}.a{fill:#0969da}.ln{stroke:#d0d7de}.dot{fill:#ffffff;stroke:#0969da}
+.lab{font-size:11px;font-weight:600;letter-spacing:1.6px}
+@media (prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d}.tile{fill:#161b22;stroke:#30363d}
+.chip{fill:#161b22;stroke:#30363d}.t{fill:#e6edf3}.m{fill:#9198a1}.a{fill:#4493f8}.ln{stroke:#30363d}
+.dot{fill:#0d1117;stroke:#4493f8}}
+</style><rect class="tile" x="6.5" y=".5" width="407" height="97" rx="8"/><text x="398" y="26" class="a" font-size="15" font-weight="600" text-anchor="end" >↗</text><text x="24" y="32" class="a lab" font-size="11" font-weight="600" text-anchor="start" >COURSE</text><text x="24" y="57" class="t" font-size="14.5" font-weight="600" text-anchor="start" >From the Big Bang to Dark Energy</text><text x="24" y="76" class="m" font-size="12.5" font-weight="400" text-anchor="start" >The University of Tokyo · Jul 2021</text></svg>
